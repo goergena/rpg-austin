@@ -1,0 +1,43 @@
+body {
+    background: url("https://pre00.deviantart.net/b8f3/th/pre/f/2012/361/c/2/equestria__the_beginnings_by_silentmatten-d5p4dwl.png");
+    background-size: cover;
+}
+
+.jumbotron {
+   background: none;
+}
+
+h1 {
+    font-size: 32px;
+}
+h2 {
+    font-size: 24px;
+} 
+
+h4 {
+    font-size: 18px;
+}
+
+.defeated {
+    max-width: 250px;
+}
+.pony {
+    opacity: 0.7;
+    max-width: 250px;
+}
+
+.pony:hover {
+    opacity: 1.0;
+}
+
+p {
+    display: inline;
+}
+
+.hidden { 
+    position: absolute; 
+    overflow: hidden; 
+    clip: rect(0 0 0 0); 
+    height: 1px; width: 1px; 
+    margin: -1px; padding: 0; border: 0; 
+  }
